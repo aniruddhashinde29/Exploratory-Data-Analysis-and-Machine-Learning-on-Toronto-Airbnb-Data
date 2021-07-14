@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-and-Machine-Learning-on-Toronto-Airbnb-Data
 
-This project tackles tha following two questions:
+This project tackles the following two questions:
 
 1. Can we predidct superhosts using the Toronto Airbnb data?
 
