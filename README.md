@@ -2,7 +2,7 @@
 
 In this project, we have performed data analysis and machine learning on Toronto Airbnb data to answer a couple of questions. Following are the files that are included in this project:
 
-1. Airbnb_data.zp -> This file contains data regarding Airbnb listings in Toronto.
+1. Airbnb_data.zip -> This file contains data regarding Airbnb listings in Toronto.
 
 2. Superhost_Classification_Airbnb_Toronto.ipynb -> Contains analysis for our first question, Can we predidct superhosts using the Toronto Airbnb data?
 
